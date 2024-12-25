@@ -43,7 +43,7 @@ Skills Demonstrated
 
 How to Run
 1. Clone the repository:
-- git clone https://github.com/your-username/product-app.git
+- git clone https://github.com/DawNow98/product-app.git
 2. Open the project in Xcode.
 3. Set up the API service if required (details in the codebase).
 4. Build and run the app on a simulator or device.
