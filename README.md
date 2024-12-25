@@ -1,5 +1,6 @@
 ProductApp 🛒
 
+
 Purpose
 ProductApp is a feature-rich catalog application that allows users to browse, filter, and sort products by categories and various sorting options. The app aims to showcase a clean and intuitive UI while leveraging data fetched from an external service.
 
@@ -49,4 +50,5 @@ How to Run
 
   
 Preview
+
 ProductApp combines modern SwiftUI design principles with advanced functionality, offering an efficient way to browse and manage products in a catalog-style app. This project is ideal for showcasing skills in API integration, UI design, and state management.
